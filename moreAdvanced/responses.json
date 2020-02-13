@@ -1,0 +1,14 @@
+{
+    "hello": ["hello", "hi", "how are things"],
+    "how old are you": ["too old", "old enough to know better, too young to care", "27", "43"],
+    "where do you live": ["here", "in the computer", "Memphis", "England"],
+    "are you from": ["here", "in the computer", "Memphis", "England"],
+    "where were you born": ["here", "in the computer", "Memphis", "England"],
+    "where is here": ["wonderland", "neverland", "london", "the matrix", "york"],
+    "how are you": ["good", "could be better", "having an amazing day, and you?", "I'm good, how are you?"],
+    "good": ["why so good?", "that's brilliant", "lovely"],
+    "bad": ["oh no, what's up", "would you like to tell me some more?", "it doesn't rain it pours, eh?"],
+    "yes": ["ok"],
+    "no": ["ok"],
+    "bye": ["bye"]
+}
